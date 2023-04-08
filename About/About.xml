@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>awgv.PersonalizedLogisticsMechanoid</packageId>
+	<name>Logistics_Mechanoid: in-game options add-on</name>
+	<author>J</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>Pal5k.LogisticsMechanoid</packageId>
+			<displayName>Logistics_Mechanoid</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2885430743</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>Makes it possible to customize certain stats of the logistics mechanoid via the in-game options and offers an alternative balancing preset to add a spacer-level upgrade to cross-world trips.</description>
+</ModMetaData>

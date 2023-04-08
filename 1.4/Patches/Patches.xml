@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PersonalizedLogisticsMechanoid.PatchOperationUseSettings">
+    <ListOfPathsToExpose>
+      <li>statBases/MoveSpeed</li>
+      <li>statBases/BandwidthCost</li>
+      <li>statBases/CaravanRidingSpeedFactor</li>
+      <li>race/baseBodySize</li>
+    </ListOfPathsToExpose>
+  </Operation>
+</Patch>
